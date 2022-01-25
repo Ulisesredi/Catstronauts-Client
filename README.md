@@ -1,3 +1,5 @@
 # Catstronauts - client
 
-The starting point of the `client` code for Odyssey Lift-off I course.
+The client side of the Catstronauts App developed during the Apollo Graphql certification course.
+
+Credits: https://odyssey.apollographql.com/
